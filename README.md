@@ -147,15 +147,17 @@ The proposed Transformer-MPC framework aims to achieve:
 - Cloud-Based Monitoring Dashboard
 
 ---
+---
+## 🤝 Contributors
+- Mirunalini A - [https://github.com/miruanand]
+---
 
-# 🤝 Contributing
+## 📜 License
 
+This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
-
-**Your Name**
-
-
-> **"Transforming Wastewater Treatment with Artificial Intelligence and Advanced Predictive Control."** 🚀
+## 👩‍💻 Authors
+**Harini S**
+---
