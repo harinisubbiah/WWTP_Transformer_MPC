@@ -46,13 +46,13 @@ The Transformer predicts multiple future wastewater states including:
 
 ---
 
-# 🏗 Workflow
+# Workflow
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/10a210d2-f918-416e-8e27-3948d8206bcc" />
 
 ---
 
-# ⚙ Methodology
+# Methodology
 
 ### 1. Data Preprocessing
 
