@@ -128,19 +128,6 @@ The proposed Transformer-MPC framework aims to achieve:
 - Reduced aeration energy
 - Improved effluent quality
 - Stable dissolved oxygen regulation
-
----
-
-# Future Work
-
-- Digital Twin Integration
-- Real-Time IoT Deployment
-- Explainable AI for WWTP
-- Reinforcement Learning Controller
-- Hybrid Transformer-LSTM Models
-- Cloud-Based Monitoring Dashboard
-
----
 ---
 ## Contributors
 - Mirunalini A - [https://github.com/miruanand]
@@ -154,4 +141,5 @@ This project is licensed under the MIT License.
 
 ## Author
 **Harini S**
+
 ---
