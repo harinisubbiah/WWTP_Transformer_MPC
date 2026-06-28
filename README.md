@@ -1,42 +1,36 @@
 
-# 🚀 Intelligent Model Predictive Control for Wastewater Treatment Plants Using Transformer-Based Multi-Step Prediction
+# Intelligent Model Predictive Control for Wastewater Treatment Plants Using Transformer-Based Multi-Step Prediction
 ---
 
-# 📖 Overview
+# Overview
 
 Wastewater Treatment Plants (WWTPs) are highly nonlinear systems whose performance depends on biological, chemical, and environmental processes.
 Traditional control strategies struggle to efficiently maintain water quality while minimizing energy consumption.
 This project presents an **Intelligent Transformer-Based Model Predictive Control (Transformer-MPC)** framework capable of:
 
-- 🧠 Learning complex WWTP dynamics
-- 📈 Multi-step forecasting of process variables
-- ⚡ Optimizing aeration energy consumption
-- 💧 Improving effluent quality
-- 🔄 Operating in a receding-horizon MPC framework
+- Learning complex WWTP dynamics
+- Multi-step forecasting of process variables
+- Optimizing aeration energy consumption
+- Improving effluent quality
+- Operating in a receding-horizon MPC framework
 
 The proposed framework combines **Deep Learning** and **Advanced Control Systems** for smart wastewater treatment.
 
 ---
 
-# 🎯 Key Features
+# Key Features
 
-✅ Transformer Encoder for multivariate time-series forecasting
-
-✅ Multi-step prediction of wastewater parameters
-
-✅ Intelligent Model Predictive Control (MPC)
-
-✅ Energy-efficient aeration optimization
-
-✅ Constraint-aware optimization
-
-✅ MATLAB / Simulink compatible
-
-✅ Easily extendable to real-world WWTP datasets
+- Transformer Encoder for multivariate time-series forecasting
+- Multi-step prediction of wastewater parameters
+- Intelligent Model Predictive Control (MPC)
+- Energy-efficient aeration optimization
+- Constraint-aware optimization
+- MATLAB / Simulink compatible
+- Easily extendable to real-world WWTP datasets
 
 ---
 
-# 🧪 Predicted Process Variables
+# Predicted Process Variables
 
 The Transformer predicts multiple future wastewater states including:
 
@@ -60,7 +54,7 @@ The Transformer predicts multiple future wastewater states including:
 
 # ⚙ Methodology
 
-### 1️⃣ Data Preprocessing
+### 1. Data Preprocessing
 
 - Missing value handling
 - Feature selection
@@ -69,7 +63,7 @@ The Transformer predicts multiple future wastewater states including:
 
 ---
 
-### 2️⃣ Transformer Learning
+### 2. Transformer Learning
 
 The Transformer Encoder learns long-term temporal dependencies from historical wastewater measurements.
 
@@ -86,7 +80,7 @@ Inputs include:
 
 ---
 
-### 3️⃣ Multi-Step Prediction
+### 3. Multi-Step Prediction
 
 Instead of predicting only the next state, the model forecasts multiple future states simultaneously.
 
@@ -94,7 +88,7 @@ This enables the MPC controller to make proactive decisions.
 
 ---
 
-### 4️⃣ Model Predictive Control
+### 4️. Model Predictive Control
 
 The predicted future states are used to optimize:
 
@@ -106,7 +100,7 @@ while satisfying operational constraints.
 
 ---
 
-# 📦 Requirements
+# Requirements
 
 - Python 3.10+
 - PyTorch
@@ -124,20 +118,20 @@ pip install -r requirements.txt
 
 ---
 
-# 📈 Expected Outcomes
+# Expected Outcomes
 
 The proposed Transformer-MPC framework aims to achieve:
 
-- 📉 Lower NH₄ concentration
-- 📉 Lower COD
-- 📉 Lower BOD
-- ⚡ Reduced aeration energy
-- 💧 Improved effluent quality
-- 🔄 Stable dissolved oxygen regulation
+- Lower NH₄ concentration
+- Lower COD
+- Lower BOD
+- Reduced aeration energy
+- Improved effluent quality
+- Stable dissolved oxygen regulation
 
 ---
 
-# 🔮 Future Work
+# Future Work
 
 - Digital Twin Integration
 - Real-Time IoT Deployment
@@ -148,16 +142,16 @@ The proposed Transformer-MPC framework aims to achieve:
 
 ---
 ---
-## 🤝 Contributors
+## Contributors
 - Mirunalini A - [https://github.com/miruanand]
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Authors
+## Author
 **Harini S**
 ---
